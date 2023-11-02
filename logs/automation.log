@@ -1,0 +1,91 @@
+12:52:46.863 [TestNG-tests-1] INFO  testcases.TC_001_AccReg - *** starting TC_001_AccountRegisterationTest ***
+12:52:47.044 [TestNG-tests-1] INFO  testcases.TC_001_AccReg - clicked on my account link
+12:52:47.937 [TestNG-tests-1] INFO  testcases.TC_001_AccReg - clicked on register link
+12:52:47.940 [TestNG-tests-1] INFO  testcases.TC_001_AccReg - providing details
+12:52:49.457 [TestNG-tests-1] ERROR testcases.TC_001_AccReg - Test failed
+12:52:49.457 [TestNG-tests-1] INFO  testcases.TC_001_AccReg - *** Finished TC_001_AccountRegisterationTest ***
+13:18:46.896 [TestNG-tests-1] INFO  testcases.TC_001_AccReg - *** starting TC_001_AccountRegisterationTest ***
+13:18:47.215 [TestNG-tests-1] INFO  testcases.TC_001_AccReg - clicked on my account link
+13:18:48.137 [TestNG-tests-1] INFO  testcases.TC_001_AccReg - clicked on register link
+13:18:48.142 [TestNG-tests-1] INFO  testcases.TC_001_AccReg - providing details
+13:18:49.758 [TestNG-tests-1] ERROR testcases.TC_001_AccReg - Test failed
+13:18:49.758 [TestNG-tests-1] INFO  testcases.TC_001_AccReg - *** Finished TC_001_AccountRegisterationTest ***
+13:22:57.772 [TestNG-tests-1] INFO  testcases.TC_001_AccReg - *** starting TC_001_AccountRegisterationTest ***
+13:22:58.011 [TestNG-tests-1] INFO  testcases.TC_001_AccReg - clicked on my account link
+13:22:58.609 [TestNG-tests-1] INFO  testcases.TC_001_AccReg - clicked on register link
+13:22:58.612 [TestNG-tests-1] INFO  testcases.TC_001_AccReg - providing details
+13:23:00.046 [TestNG-tests-1] ERROR testcases.TC_001_AccReg - Test failed
+13:23:00.046 [TestNG-tests-1] INFO  testcases.TC_001_AccReg - *** Finished TC_001_AccountRegisterationTest ***
+13:23:40.475 [TestNG-tests-1] INFO  testcases.TC_001_AccReg - *** starting TC_001_AccountRegisterationTest ***
+13:23:40.803 [TestNG-tests-1] INFO  testcases.TC_001_AccReg - clicked on my account link
+13:23:42.031 [TestNG-tests-1] INFO  testcases.TC_001_AccReg - clicked on register link
+13:23:42.034 [TestNG-tests-1] INFO  testcases.TC_001_AccReg - providing details
+13:23:43.457 [TestNG-tests-1] ERROR testcases.TC_001_AccReg - Test failed
+13:23:43.457 [TestNG-tests-1] INFO  testcases.TC_001_AccReg - *** Finished TC_001_AccountRegisterationTest ***
+15:35:45.229 [TestNG-tests-1] INFO  testcases.TC_002_LoginTest - **** Starting TC_002_LoginTest ****
+15:36:49.036 [TestNG-tests-1] INFO  testcases.TC_002_LoginTest - **** Starting TC_002_LoginTest ****
+15:42:20.779 [TestNG-tests-1] INFO  testcases.TC_002_LoginTest - **** Starting TC_002_LoginTest ****
+15:45:35.517 [TestNG-tests-1] INFO  testcases.TC_002_LoginTest - **** Starting TC_002_LoginTest ****
+17:25:02.496 [TestNG-tests-1] INFO  testcases.TC_003_DDTest - **** Starting TC_003_DDTest ****
+17:25:14.039 [TestNG-tests-1] INFO  testcases.TC_003_DDTest - **** Starting TC_003_DDTest ****
+17:25:15.354 [TestNG-tests-1] INFO  testcases.TC_003_DDTest - **** Starting TC_003_DDTest ****
+17:25:26.492 [TestNG-tests-1] INFO  testcases.TC_003_DDTest - **** Finished TC_003_DDTest
+17:25:26.495 [TestNG-tests-1] INFO  testcases.TC_003_DDTest - **** Starting TC_003_DDTest ****
+17:25:37.655 [TestNG-tests-1] INFO  testcases.TC_003_DDTest - **** Finished TC_003_DDTest
+17:25:37.659 [TestNG-tests-1] INFO  testcases.TC_003_DDTest - **** Starting TC_003_DDTest ****
+11:00:26.630 [TestNG-tests-1] INFO  testcases.TC_002_LoginTest - **** Starting TC_002_LoginTest ****
+11:01:55.504 [TestNG-tests-1] INFO  testcases.TC_001_AccReg - *** starting TC_001_AccountRegisterationTest ***
+11:01:55.659 [TestNG-tests-1] INFO  testcases.TC_001_AccReg - clicked on my account link
+11:01:56.433 [TestNG-tests-1] INFO  testcases.TC_001_AccReg - clicked on register link
+11:01:56.437 [TestNG-tests-1] INFO  testcases.TC_001_AccReg - providing details
+11:01:57.947 [TestNG-tests-1] ERROR testcases.TC_001_AccReg - Test failed
+11:01:57.947 [TestNG-tests-1] INFO  testcases.TC_001_AccReg - *** Finished TC_001_AccountRegisterationTest ***
+11:02:01.703 [TestNG-tests-1] INFO  testcases.TC_002_LoginTest - **** Starting TC_002_LoginTest ****
+11:14:21.361 [TestNG-tests-1] INFO  testcases.TC_002_LoginTest - **** Starting TC_002_LoginTest ****
+15:09:21.960 [TestNG-tests-1] INFO  testcases.TC_003_DDTest - **** Starting TC_003_DDTest ****
+15:09:33.873 [TestNG-tests-1] INFO  testcases.TC_003_DDTest - **** Starting TC_003_DDTest ****
+15:09:46.472 [TestNG-tests-1] INFO  testcases.TC_003_DDTest - **** Finished TC_003_DDTest
+15:09:46.473 [TestNG-tests-1] INFO  testcases.TC_003_DDTest - **** Starting TC_003_DDTest ****
+15:09:47.782 [TestNG-tests-1] INFO  testcases.TC_003_DDTest - **** Starting TC_003_DDTest ****
+15:09:53.247 [TestNG-tests-1] INFO  testcases.TC_003_DDTest - **** Finished TC_003_DDTest
+15:09:53.250 [TestNG-tests-1] INFO  testcases.TC_003_DDTest - **** Starting TC_003_DDTest ****
+15:10:45.264 [TestNG-tests-1] INFO  testcases.TC_003_DDTest - **** Starting TC_003_DDTest ****
+15:10:56.426 [TestNG-tests-1] INFO  testcases.TC_003_DDTest - **** Starting TC_003_DDTest ****
+15:11:07.900 [TestNG-tests-1] INFO  testcases.TC_003_DDTest - **** Finished TC_003_DDTest
+15:11:07.901 [TestNG-tests-1] INFO  testcases.TC_003_DDTest - **** Starting TC_003_DDTest ****
+15:11:20.139 [TestNG-tests-1] INFO  testcases.TC_003_DDTest - **** Finished TC_003_DDTest
+15:11:20.141 [TestNG-tests-1] INFO  testcases.TC_003_DDTest - **** Starting TC_003_DDTest ****
+15:11:31.558 [TestNG-tests-1] INFO  testcases.TC_003_DDTest - **** Finished TC_003_DDTest
+15:11:31.560 [TestNG-tests-1] INFO  testcases.TC_003_DDTest - **** Starting TC_003_DDTest ****
+15:52:46.545 [TestNG-tests-1] INFO  testcases.TC_003_DDTest - **** Starting TC_003_DDTest ****
+15:52:58.151 [TestNG-tests-1] INFO  testcases.TC_003_DDTest - **** Starting TC_003_DDTest ****
+15:53:08.970 [TestNG-tests-1] INFO  testcases.TC_003_DDTest - **** Finished TC_003_DDTest
+15:53:08.973 [TestNG-tests-1] INFO  testcases.TC_003_DDTest - **** Starting TC_003_DDTest ****
+15:53:19.962 [TestNG-tests-1] INFO  testcases.TC_003_DDTest - **** Finished TC_003_DDTest
+15:53:19.965 [TestNG-tests-1] INFO  testcases.TC_003_DDTest - **** Starting TC_003_DDTest ****
+15:53:31.060 [TestNG-tests-1] INFO  testcases.TC_003_DDTest - **** Finished TC_003_DDTest
+15:53:31.063 [TestNG-tests-1] INFO  testcases.TC_003_DDTest - **** Starting TC_003_DDTest ****
+16:07:25.928 [TestNG-tests-1] INFO  testcases.TC_003_DDTest - **** Starting TC_003_DDTest ****
+16:07:37.526 [TestNG-tests-1] INFO  testcases.TC_003_DDTest - **** Starting TC_003_DDTest ****
+16:07:48.530 [TestNG-tests-1] INFO  testcases.TC_003_DDTest - **** Finished TC_003_DDTest
+16:07:48.533 [TestNG-tests-1] INFO  testcases.TC_003_DDTest - **** Starting TC_003_DDTest ****
+16:08:01.259 [TestNG-tests-1] INFO  testcases.TC_003_DDTest - **** Finished TC_003_DDTest
+16:08:01.261 [TestNG-tests-1] INFO  testcases.TC_003_DDTest - **** Starting TC_003_DDTest ****
+16:08:15.666 [TestNG-tests-1] INFO  testcases.TC_003_DDTest - **** Finished TC_003_DDTest
+16:08:15.668 [TestNG-tests-1] INFO  testcases.TC_003_DDTest - **** Starting TC_003_DDTest ****
+16:11:04.650 [TestNG-tests-1] INFO  testcases.TC_003_DDTest - **** Starting TC_003_DDTest ****
+16:11:16.504 [TestNG-tests-1] INFO  testcases.TC_003_DDTest - **** Starting TC_003_DDTest ****
+16:11:27.686 [TestNG-tests-1] INFO  testcases.TC_003_DDTest - **** Finished TC_003_DDTest
+16:11:27.689 [TestNG-tests-1] INFO  testcases.TC_003_DDTest - **** Starting TC_003_DDTest ****
+16:11:40.871 [TestNG-tests-1] INFO  testcases.TC_003_DDTest - **** Finished TC_003_DDTest
+16:11:40.872 [TestNG-tests-1] INFO  testcases.TC_003_DDTest - **** Starting TC_003_DDTest ****
+16:11:56.240 [TestNG-tests-1] INFO  testcases.TC_003_DDTest - **** Finished TC_003_DDTest
+16:11:56.241 [TestNG-tests-1] INFO  testcases.TC_003_DDTest - **** Starting TC_003_DDTest ****
+12:27:58.886 [TestNG-tests-1] INFO  testcases.TC_003_DDTest - **** Starting TC_003_DDTest ****
+12:27:58.906 [TestNG-tests-1] INFO  testcases.TC_003_DDTest - **** Starting TC_003_DDTest ****
+12:28:11.128 [TestNG-tests-1] INFO  testcases.TC_003_DDTest - **** Starting TC_003_DDTest ****
+12:28:11.626 [TestNG-tests-1] INFO  testcases.TC_003_DDTest - **** Starting TC_003_DDTest ****
+12:28:13.534 [TestNG-tests-1] INFO  testcases.TC_003_DDTest - **** Finished TC_003_DDTest
+12:28:13.536 [TestNG-tests-1] INFO  testcases.TC_003_DDTest - **** Starting TC_003_DDTest ****
+12:28:19.702 [TestNG-tests-1] INFO  testcases.TC_003_DDTest - **** Finished TC_003_DDTest
+12:28:19.706 [TestNG-tests-1] INFO  testcases.TC_003_DDTest - **** Starting TC_003_DDTest ****
